@@ -11,7 +11,7 @@ Player::Player()
         std::cout << "플레이어 텍스처 로드 실패!\n";
     }
     else {
-        std::cout << "4- 플레이어 텍스처 로드 성공!\n";
+        std::cout << "5- 플레이어 텍스처 로드 성공!\n";
     }
     int totalColumns = 12;  // 실제 칸 수에 맞게 수정
 

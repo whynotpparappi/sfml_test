@@ -20,6 +20,8 @@ private:
     Map map;
 	Tech tech;
 
+    std::vector<Tech> techs;
+
 	int checkpointRoomX = 0;
 	int checkpointRoomY = 0;
 

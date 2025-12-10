@@ -1,6 +1,5 @@
 #include "Game.h"
-#include "Player.h"
-#include "Map.h"
+
 
 
 Game::Game()
